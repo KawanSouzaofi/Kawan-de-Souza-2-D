@@ -1,7 +1,10 @@
-body {background-color: rgb(44, 44, 44);
+body {background-color: rgb(83, 83, 83);
 }
 h1 {color: rgb(255, 255, 255); text-align: center;
 }
-#imal {width: 120%; align-items: center;}
+#ima1 {width: 70%; margin-left: 15%;
+border-color: rgb(255, 255, 255); border-style:solid;
+border-width: 100%;}
+
 h2 {color: rgb(255, 255, 255); text-align: center;
 }
